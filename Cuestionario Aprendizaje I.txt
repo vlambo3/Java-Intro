@@ -1,0 +1,27 @@
+JAVA
+1- b
+2- a
+3- b
+4- a 
+5- c
+6- c
+7- d
+8- b
+9- c
+10- a
+11- b
+12- b
+
+La CLASE SYSTEM	representa al sistema donde se esta ejecutando el programa Java. Por lo que se usa para interactuar con el entorno en el que corre, y utilizar las propiedades del entorno, sist op, usuario y demás.
+
+
+"Además permite cargar librerías externas en una línea de ejecución con el método load() /para sumar funcionalidades a nstros prog/
+Los ATRIBUTOS:
+- System.out, se utiliza para acceder a la salida estandar del proceso
+- System.in, para acceder a la entrada standar del proceso
+- System.err, para acceder a la salida de error del proceso
+
+Se utilizan para interactuar con el sistema op.
+
+
+
